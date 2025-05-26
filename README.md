@@ -6,7 +6,7 @@ This project pertains to [Airline database](https://github.com/kaushikabhishek77
 Following questions are answered in the project:
 
 > Conversion to 'yyyy-mm-dd' format of book_date column of bookings table  
-> Details of longest flight
+> Details of longest flight  
 > List of unique flight_ids having highest range  
 > Month-wise highest paying passenger  
 > Tickets without boarding passes
