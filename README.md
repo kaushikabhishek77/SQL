@@ -1,2 +1,2 @@
 # SQL
-Analysis of airlines flights data
+## Analysis of airlines flights data
